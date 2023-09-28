@@ -26,9 +26,8 @@
     }
     
     #note{
-        margin-top: 150px;
+        margin-top: 75px;
     }
-
     .logo {
         font-size: 20px;
         font-weight: bold;
@@ -154,5 +153,8 @@
     
         .newsletter input {
             margin-right: 0;
+        }
+        #note{
+            margin-top: 150px;
         }
     }
